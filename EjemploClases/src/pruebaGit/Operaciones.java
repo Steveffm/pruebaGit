@@ -42,8 +42,15 @@ public class Operaciones {
 	
 	public int division() {
 		
-		
 		return operadorA / operadorB;
+		
+	}
+
+	public int multiplicacion () {
+		
+		
+		return operadorA * operadorB;
+
 	}
 
 }
