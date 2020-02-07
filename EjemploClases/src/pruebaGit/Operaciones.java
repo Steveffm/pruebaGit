@@ -10,7 +10,7 @@ public class Operaciones {
 		this.operadorA = operadorA;
 		this.operadorB = operadorB;
 
-	}
+	} 
 
 	public int getOperadorA() {
 		return operadorA;
